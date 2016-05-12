@@ -1,0 +1,2 @@
+git+https://github.com/WarmongeR1/vulyk.git@big_changes
+git+https://github.com/WarmongeR1/vulyk-pythondigest-moderator.git
