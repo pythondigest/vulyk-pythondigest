@@ -20,6 +20,13 @@ pip install -r requirements.txt
 ```
 
 
+Configure `local_settings.py`
+
+```
+cp example_local_settings.py local_settings.py
+# edit file local_settings...
+```
+
 
 Init database and install some fixtures:
 
